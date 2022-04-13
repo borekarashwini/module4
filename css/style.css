@@ -142,7 +142,7 @@ body {
 }
 .search {
   font-family: "Gilroy-medium";
-  background: url("/Search.png") no-repeat left;
+  background: url("../Search.png") no-repeat left;
   background-color: white;
   background-position: 17px 12px;
   background-size: 1em 1em;
